@@ -731,6 +731,17 @@ footer span a:hover{
               line-height: 38px;
     }
 }
+.teams .carousel .card:hover .t{
+
+ color: white;
+
+}
+
+.t{
+
+  color: crimson;
+
+    }
 
 .red{
   color: crimson;
