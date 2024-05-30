@@ -119,7 +119,8 @@ section .title::after{
     margin-left: 25px;
     transition: color 0.3s ease;
 }
-.navbar .menu li a:hover{
+.navbar .menu li a:hover,
+.active{
     color: crimson;
 }
 .navbar.sticky .menu .active,
