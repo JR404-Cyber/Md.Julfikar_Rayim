@@ -747,6 +747,6 @@ footer span a:hover{
 .red{
   color: crimson;
 }
-.navbar.sticky .menu .active{
+.navbar .sticky .menu .active{
     color: white;
 }
